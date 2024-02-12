@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ternario/Todo.git/static/css/main.682afd84.css",
+    "main.js": "/Ternario/Todo.git/static/js/main.129e2966.js",
+    "index.html": "/Ternario/Todo.git/index.html",
+    "main.682afd84.css.map": "/Ternario/Todo.git/static/css/main.682afd84.css.map",
+    "main.129e2966.js.map": "/Ternario/Todo.git/static/js/main.129e2966.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.682afd84.css",
+    "static/js/main.129e2966.js"
+  ]
+}
